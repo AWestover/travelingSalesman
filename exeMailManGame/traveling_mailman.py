@@ -9,6 +9,8 @@ from pygame.locals import *
 import random
 import time
 
+from os.path import join
+
 mail_box_dims = [100, 100]
 screen_dims = [1400, 700]
 screen_color = [10, 255, 255]
